@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ritter128
-- 👀 I’m interested in C++, OpenGL, Python,
-- 🌱 I’m currently learning C++, OpenGL
+- 👀 I’m interested in C++, OpenGL, Python, Dart, Computer architecture
+- 🌱 I’m currently learning C++, OpenGL, Flutter
 - 💞️ I’m looking to collaborate on C++ and Python
 - 📫 How to reach me (don't feel like it right now)
 
